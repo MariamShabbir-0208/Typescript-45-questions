@@ -1,0 +1,4 @@
+let quote: string = "A person never made a mistake naver tried anything new.";
+let author: string = "Alber Einstein";
+
+consol.log('$ {author} once said, "${quote}"');
